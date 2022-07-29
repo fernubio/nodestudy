@@ -1,11 +1,10 @@
 {
-	"folders": [
-		{
-			"path": "../ServeLess/Project"
-		},
-		{
-			"path": "."
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../ServeLess"
+        }
+    ]
 }
